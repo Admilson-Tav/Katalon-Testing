@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>344c51d9-e757-498a-b5dd-73b0374b98d0</webElementGuid>
+      <webElementGuid>729f414a-fdcc-4342-a174-76f6613e1f6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary OSFillParent</value>
-      <webElementGuid>ca9d2054-50e0-4e75-a33d-85ff3dee64cc</webElementGuid>
+      <webElementGuid>78eac302-c221-4895-aa0e-414c180f8f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>29f5e025-a231-4727-9433-12fe323d474f</webElementGuid>
+      <webElementGuid>c4758d3a-2463-470f-be36-fdf62fc33917</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>d6c014e8-2312-430d-a063-9fed3ad91767</webElementGuid>
+      <webElementGuid>78c85f18-6b97-4645-b288-09cafb9d5e7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b6-Button&quot;)/button[@class=&quot;btn btn-primary OSFillParent&quot;]</value>
-      <webElementGuid>c1bee0db-1e76-4866-8283-080ddeb4e582</webElementGuid>
+      <webElementGuid>f7cf6538-a3fa-4c7f-822b-4b5edecb5040</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>0ce59509-3e5f-4644-bcb2-ee4b3af8f52b</webElementGuid>
+      <webElementGuid>c107fab7-092c-4a85-9308-1223ee0071fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b6-Button']/button</value>
-      <webElementGuid>ecb053bf-5eca-453d-b6a9-427d2dcdb0f7</webElementGuid>
+      <webElementGuid>2a0de8aa-8fab-4d7e-b4fd-6dadcf74e593</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::button[1]</value>
-      <webElementGuid>4e2f16ce-8b45-4285-991e-a7bfd3ef620a</webElementGuid>
+      <webElementGuid>12bb226b-0df4-4616-b1cc-6ca22f7a9363</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>1d1cfa46-9a97-4606-a024-4700bca53076</webElementGuid>
+      <webElementGuid>6b7f6b5b-23e6-4d05-b8de-9834970542a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>b442decb-d360-442d-92aa-d2f1e2b1cd29</webElementGuid>
+      <webElementGuid>06ef341b-751b-477d-9455-66d97e007f14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>e0d185dc-5717-450b-a5f9-1807f1477bb6</webElementGuid>
+      <webElementGuid>5bf8ca87-3065-4e74-91db-7cd01211493d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
